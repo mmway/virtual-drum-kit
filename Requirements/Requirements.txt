@@ -1,0 +1,7 @@
+tdm-mingw-1.908.0-4.4.1-2
+visual_c++_express_edition_2008
+OpenCV-2.1.0-win32-vs2008
+win_SDK_plus_openMP
+	Setup.exe
+	vcredist_x64
+	vcredist_x86
